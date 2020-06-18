@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "hls.js": "^0.13.2",
+    "plyr": "^3.6.2",
+    "vue": "^2.6.11",
+    "vue-plyr": "^6.0.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
